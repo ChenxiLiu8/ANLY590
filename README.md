@@ -14,3 +14,6 @@ GradientDescent.ipynb
 
 ## Lab 4 File ##
 tf_and_keras.ipynb
+
+## Lab 5 File##
+Copy_of_keras_lab_chenxi_liu.ipynb
