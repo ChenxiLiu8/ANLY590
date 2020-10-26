@@ -17,3 +17,6 @@ tf_and_keras.ipynb
 
 ## Lab 5 File ##
 Copy_of_keras_lab_chenxi_liu.ipynb
+
+## Homework 2 File ##
+Assignment2.ipynb
