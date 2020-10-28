@@ -20,3 +20,6 @@ Copy_of_keras_lab_chenxi_liu.ipynb
 
 ## Homework 2 File ##
 Assignment2.ipynb
+
+## Lab 6 File ##
+autoencoders_(1).ipynb
