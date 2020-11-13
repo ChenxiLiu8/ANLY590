@@ -23,3 +23,6 @@ Assignment2.ipynb
 
 ## Lab 6 File ##
 autoencoders_(1).ipynb
+
+## Lab 7 File ##
+CNNs_Lab.ipynb
