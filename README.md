@@ -26,3 +26,7 @@ autoencoders_(1).ipynb
 
 ## Lab 7 File ##
 CNNs_Lab.ipynb
+
+
+## Lab 8 File ##
+RNN_Lab.ipynb
