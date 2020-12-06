@@ -30,3 +30,6 @@ CNNs_Lab.ipynb
 
 ## Lab 8 File ##
 RNN_Lab.ipynb
+
+## Assignment3 File ##
+Assignment3.ipynb
